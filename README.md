@@ -6,4 +6,3 @@ XenForo-梦塔论坛
 
 https://github.com/mhya123/XenForo-open/releases 获取软件包
 
-提醒几句：数据库没有公开
